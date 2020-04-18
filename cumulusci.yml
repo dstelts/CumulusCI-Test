@@ -2,10 +2,10 @@ project:
     name: CumulusCI-Test
     package:
         name: CumulusCI Test
-        namespace: ccitest
+        namespace: dsccitest
         api_version: 48.0
     git:
-        repo_url: https://github.com/SalesforceFoundation/CumulusCI-Test
+        repo_url: https://github.com/dstelts/CumulusCI-Test
     source_format: sfdx
     dependencies:
         - namespace: pub

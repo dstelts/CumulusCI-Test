@@ -5,6 +5,6 @@
       "default": true
     }
   ],
-  "namespace": "ccitest",
+  "namespace": "dsccitest",
   "sourceApiVersion": "48.0"
 }
